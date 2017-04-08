@@ -36,7 +36,7 @@ Old Portfolio : http://taewan.co.kr
 - 사용기술 : Swift, GPUImage
 - AppStore (https://itunes.apple.com/kr/app/id1148486412)
 
-<img src="images/preview_00.jpeg" width="160"/> <img src="images/preview_01.jpeg" width="160"/> <img src="images/preview_02.jpeg" width="160"/> <img src="images/preview_03.jpeg" width="160"/><img src="images/preview_04.jpeg" width="160"/>
+<img src="images/preview_00.jpeg" width="160"/> <img src="images/preview_01.jpeg" width="160"/> <img src="images/preview_02.jpeg" width="160"/> <img src="images/preview_03.jpeg" width="160"/> <img src="images/preview_04.jpeg" width="160"/>
 
 ## 회사 프로젝트
 
@@ -47,7 +47,7 @@ Old Portfolio : http://taewan.co.kr
 - 사용기술 : iOS, Swift(3.0), RxSwift
 - AppStore (https://itunes.apple.com/kr/app/id980166975)
 
-<img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/><img src="images/heydealer_04.jpeg" width="160"/>
+<img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
 
 ### 헤이딜러(딜러용)
 - 소속 : 피알앤디컴퍼니 
@@ -56,7 +56,7 @@ Old Portfolio : http://taewan.co.kr
 - 사용기술 : iOS, Swift(3.0), Firebase, RxSwift
 - AppStore (https://itunes.apple.com/kr/app/id1147518289)
 
-<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/><img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
+<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
 
 ### 카큐™
 중고차 시세계산기
@@ -70,7 +70,7 @@ Old Portfolio : http://taewan.co.kr
 - AppStore (https://itunes.apple.com/kr/app/id1084930611)
 
 
-[![Alt carq](images/carq.jpg)](https://s3.ap-northeast-2.amazonaws.com/co.kr.taewan.preview/carq.mp4)
+[![Alt carq](images/carq160.jpg)](https://s3.ap-northeast-2.amazonaws.com/co.kr.taewan.preview/carq.mp4)
 
 
 ### 시간표-타임스프레드
