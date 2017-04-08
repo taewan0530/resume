@@ -74,7 +74,6 @@ Old Portfolio : http://taewan.co.kr
 
 
 ### 시간표-타임스프레드
-지인의 의뢰로 진행한 외주 프로젝트
 시간표 관리하는 어플리케이션
 
 - 발주: J CONNECT
